@@ -1,0 +1,22 @@
+/* PUT FLUID GRID CODE HERE */
+
+nav {
+  float: right;
+}
+
+
+.clearfix:after {
+  content: ""; /* Empty content string */
+  display: block; /* Only block elements can clear */
+  clear: both;
+}
+
+
+
+aside {
+  width: 20%;
+}
+
+section {
+  width: 60%;
+}
